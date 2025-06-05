@@ -42,5 +42,9 @@ https://jsonplaceholder.typicode.com/users
 5.Using HTML & CSS to structure and style dynamic data
 6.Creating responsive layouts
 
+Screenshot of my output:-
+
+![Image](https://github.com/user-attachments/assets/e516631e-1563-40c3-a62c-45428bd836c4)
+
 
 
